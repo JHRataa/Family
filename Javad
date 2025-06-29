@@ -1,13 +1,13 @@
 vless://512c8ed7-13dc-9d8d-039a-d0d47c84a0be@81.29.255.187:699?encryption=none&security=none&type=ws&host=telewebion.com%2Cuser.telewebion.com%2Cplus.telewebion.com%2Capi.telewebion.com&path=%2Fws%3Fed%3D2048#J-1
-vless://c7c922da-ab54-433c-8046-1f9bf9d95c23@45.82.251.69:1001?encryption=none&security=reality&sni=telewebion.com&fp=chrome&pbk=8Gunn8hjWbit5yLtTPcvLph0u2ovHLsGoXX4IJS1EQ0&sid=5fab0deb&type=tcp&headerType=none#J-2-MCI-Irancell-
-vless://7f97131b-0d9d-4be9-b7b4-3fa21403cffa@2.56.126.76:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=XThpnyytziagvWMwmxGuSQ0nqfUw2sosq49F2fUEzmk&sid=0ca18da2c8f9&type=tcp&headerType=none#J-3-MCI-Irancell
+vless://c7c922da-ab54-433c-8046-1f9bf9d95c23@45.82.251.69:1001?encryption=none&security=reality&sni=telewebion.com&fp=chrome&pbk=8Gunn8hjWbit5yLtTPcvLph0u2ovHLsGoXX4IJS1EQ0&sid=5fab0deb&type=tcp&headerType=none#J-2-MCI-Irancell-Modem
+vless://7f97131b-0d9d-4be9-b7b4-3fa21403cffa@2.56.126.76:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=XThpnyytziagvWMwmxGuSQ0nqfUw2sosq49F2fUEzmk&sid=0ca18da2c8f9&type=tcp&headerType=none#J-3-MCI-Irancell-Modem
 vless://c64829ed-b7c9-407b-bb2d-f72ce7840df2@91.99.203.43:8585?encryption=none&security=reality&sni=tgju.org&fp=firefox&pbk=58yfyRJyku8oddKvCIBHz0K8LrTWKr3qTe-DMUcrWEg&sid=ea0e387f2b260e0d&type=tcp&headerType=none#J-4
-vless://378df8e8-add6-4416-9eba-e30042fc19c8@37.27.220.157:443?encryption=none&security=reality&sni=www.speedtest.net&fp=chrome&pbk=98o3NKmGSULn2eRsvgrWQk9blOwPAQ4Lt4YWu_R-GBk&sid=cbfe&type=tcp&headerType=none#J-5
+vless://378df8e8-add6-4416-9eba-e30042fc19c8@37.27.220.157:443?encryption=none&security=reality&sni=www.speedtest.net&fp=chrome&pbk=98o3NKmGSULn2eRsvgrWQk9blOwPAQ4Lt4YWu_R-GBk&sid=cbfe&type=tcp&headerType=none#J-5-Modem
 vless://dbc9b263-f858-44c1-af4f-4e4ee1723490@193.151.137.17:4411?encryption=none&security=none&type=tcp&headerType=http&host=varzesh3.com#J-6
-vless://260cc7e4-1e11-44e8-81fd-b162fbb1c83e@104.21.24.0:443?encryption=none&security=tls&sni=lgoin.persianmizban.com&fp=chrome&type=ws&host=lgoin.persianmizban.com&path=%2F#J-7-Irancell
-vless://260cc7e4-1e11-44e8-81fd-b162fbb1c83e@104.21.24.0:443?encryption=none&security=tls&sni=lgoin.persianmizban.com&fp=chrome&type=ws&host=lgoin.persianmizban.com&path=%2F#J-8-Irancell
-vless://329d8863-42ce-4015-b9b9-8417499cc174@cleanv2itech1.freesdns.info:443?encryption=none&security=tls&sni=m1.freesdns.info.&fp=chrome&type=ws&host=m1.freesdns.info.&path=%2F#J-9
+vless://260cc7e4-1e11-44e8-81fd-b162fbb1c83e@104.21.24.0:443?encryption=none&security=tls&sni=lgoin.persianmizban.com&fp=chrome&type=ws&host=lgoin.persianmizban.com&path=%2F#J-7-Irancell-Modem
+vless://260cc7e4-1e11-44e8-81fd-b162fbb1c83e@104.21.24.0:443?encryption=none&security=tls&sni=lgoin.persianmizban.com&fp=chrome&type=ws&host=lgoin.persianmizban.com&path=%2F#J-8-Irancell-Modem
+vless://329d8863-42ce-4015-b9b9-8417499cc174@cleanv2itech1.freesdns.info:443?encryption=none&security=tls&sni=m1.freesdns.info.&fp=chrome&type=ws&host=m1.freesdns.info.&path=%2F#J-9-Modem
 vless://809c908f-2219-11f0-9970-45e1d80c4039@62.60.233.250:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=images.apple.com&fp=chrome&pbk=MFsbnsNQsSpZwP-_Ohzako6aHpfK4-rbssxhr3eywWw&sid=4476a3&type=tcp&headerType=none#J-10-MCI-Irancell
 vless://7f97131b-0d9d-4be9-b7b4-3fa21403cffa@us.cosmonet.online:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=hw3MbOnPen0fjaAWytYHFCEQIGMcPGf7leBLcFK_E2U&sid=4fb4&spx=%2FVEPIVx0C26b3s6l&type=tcp&headerType=none#J-11
-vless://260cc7e4-1e11-44e8-81fd-b162fbb1c83e@record.persianmizban.com:443?encryption=none&security=tls&sni=lgoin.persianmizban.com&fp=chrome&type=ws&host=lgoin.persianmizban.com&path=%2F#J-12
+vless://260cc7e4-1e11-44e8-81fd-b162fbb1c83e@record.persianmizban.com:443?encryption=none&security=tls&sni=lgoin.persianmizban.com&fp=chrome&type=ws&host=lgoin.persianmizban.com&path=%2F#J-12-Modem
 
