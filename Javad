@@ -1,11 +1,3 @@
-vless://ed052da1-2cdf-451e-8212-cb4f59ba6c39@germany.fast.hosting-ip.com:80?encryption=none&security=none&type=xhttp&host=cafepedia7.net&path=%2F%3Fed%3D2048&mode=auto#J-1-Modem
-vless://ed052da1-2cdf-451e-8212-cb4f59ba6c39@germany.fast.hosting-ip.com:80?encryption=none&security=none&type=xhttp&host=cafepedia7.net&path=%2F%3Fed%3D2048&mode=auto#J-2-Modem
-vless://ed052da1-2cdf-451e-8212-cb4f59ba6c39@germany.fast.hosting-ip.com:80?encryption=none&security=none&type=xhttp&host=cafepedia7.net&path=%2F%3Fed%3D2048&mode=auto#J-3-Modem
-vless://ed052da1-2cdf-451e-8212-cb4f59ba6c39@germany.fast.hosting-ip.com:80?encryption=none&security=none&type=xhttp&host=cafepedia7.net&path=%2F%3Fed%3D2048&mode=auto#J-4-Modem
-vless://ed052da1-2cdf-451e-8212-cb4f59ba6c39@germany.fast.hosting-ip.com:80?encryption=none&security=none&type=xhttp&host=cafepedia7.net&path=%2F%3Fed%3D2048&mode=auto#J-8-Modem
-vless://28f8ae56-3e67-417c-827a-de55d90225b4@31.58.144.164:32545?encryption=none&security=reality&sni=zula.ir&fp=chrome&pbk=V2udjJMegh27OhXkN__N4H7CPPbyVJ2HKBLV4q47HXk&sid=0e&type=grpc#J-6-Modem-همراه اول
-vless://28f8ae56-3e67-417c-827a-de55d90225b4@31.58.144.164:32545?encryption=none&security=reality&sni=zula.ir&fp=chrome&pbk=V2udjJMegh27OhXkN__N4H7CPPbyVJ2HKBLV4q47HXk&sid=0e&type=grpc#J-7-Modem-همراه اول
-
-
-
-
+vless://01d68a9b-be48-4c7b-b4f9-71b29c4cfaca@95.217.206.161:443?encryption=none&security=tls&sni=api.chandplus.com&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=tcp&headerType=none#J-1-Modem
+vless://bb5a9c6a-0721-4aa0-96d9-adbe7c281f12@193.151.145.21:46205?encryption=none&security=none&type=tcp&headerType=http&host=www.speedtest.net.#J-2-Modem
+vless://3ab9cb9a-4ed8-426c-b42d-b3079c89df84@46.62.154.63:55555?encryption=none&security=reality&sni=stackoverflow.com&fp=chrome&pbk=iN6Mxm-XgB9_nfgRHxdE3QX9XJpAY-EHv-EtvAIkYx4&sid=ea83a8b0&type=tcp&headerType=none#J-3-Modem
